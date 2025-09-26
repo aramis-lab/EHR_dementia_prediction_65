@@ -48,7 +48,7 @@ Execute the notebooks in order:
 - Evaluate clinical utility metrics
 - Generate performance tables and visualizations
 
-Input Data Format
+##  Input Data Format
 
 The analysis expects healthcare data with:
 
@@ -57,13 +57,13 @@ The analysis expects healthcare data with:
 - Disease outcomes: ICD codes for dementia/Alzheimer's with diagnosis dates
 - Follow-up information: Death dates, last contact dates
 
-Dependencies
+##  Dependencies
 
-pandas>=1.3.0
-numpy>=1.21.0
-scikit-learn>=1.0.0
-matplotlib>=3.5.0
-seaborn>=0.11.0
-lifelines>=0.27.0
-jupyter>=1.0.0
-scipy>=1.7.0
+- pandas>=1.3.0
+- numpy>=1.21.0
+- scikit-learn>=1.0.0
+- matplotlib>=3.5.0
+- seaborn>=0.11.0
+- lifelines>=0.27.0
+- jupyter>=1.0.0
+- scipy>=1.7.0
